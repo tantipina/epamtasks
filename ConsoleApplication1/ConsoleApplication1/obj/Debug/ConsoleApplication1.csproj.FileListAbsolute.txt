@@ -1,1 +1,6 @@
 C:\Program Files\Git\usr\bin\task02\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Program Files\Git\usr\bin\task02\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Program Files\Git\usr\bin\task02\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Program Files\Git\usr\bin\task02\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Program Files\Git\usr\bin\task02\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Program Files\Git\usr\bin\task02\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
